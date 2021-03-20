@@ -1,1 +1,1 @@
-# [Visit my source code profile on Sourcehut.](https://git.sr.ht/~cyborg)
+# [Visit my profile on Sourcehut.](https://git.sr.ht/~cyborg)
