@@ -1,4 +1,4 @@
-# Hi, I'm Christian.
+# Hi, I'm Christian. My code has moved to [Sourcehut](https://git.sr.ht/~cyborg).
 
 You may have read some posts on [my blog](https://blog.cleberg.io), seen some of [code](https://git.sr.ht/~cyborg), or any of my other locations on the internet.
 
